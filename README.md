@@ -4,7 +4,7 @@ Small project to understand how the mGBA implementation of lua sockets works and
 The end goal is to send a message to mGBA via sockets.
 
 ## How to run
-0. See me [mGBA-lua-HelloWorld repository](https://github.com/nikouu/mGBA-lua-HelloWorld) for basic setup instructions.
+0. See my [mGBA-lua-HelloWorld repository](https://github.com/nikouu/mGBA-lua-HelloWorld) for basic setup instructions.
 1. Ensure you're running a ROM in mGBA.
 2. Load `socketserver.lua`
 3. Open `SocketClient.sln` for the manual C# socket client.
